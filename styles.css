@@ -91,7 +91,7 @@ ul {
   color: rgb(221, 219, 219);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 390px) {
   .top-white-box {
     width: 400px;
     height: 70%;
